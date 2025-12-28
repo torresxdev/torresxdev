@@ -1,6 +1,6 @@
 ## 🎓 About Me
 
-I'm a **Telecommunications and Software Engineer** with strong experience in networks, signal processing, and communication systems. Currently, I'm specializing in **CyberSecurity**, combining my knowledge of network infrastructures with advanced security 
+I am a **Telecommunications and Software Engineer** with a solid foundation in networks, signal processing, and communication systems. Having completed my degree, I am now transitioning my focus toward **Cybersecurity**.
 
 ## 🔧 Technical Skills
 
