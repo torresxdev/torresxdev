@@ -2,7 +2,7 @@
 
 <img align="right" width="200" alt="webspy" src="https://github.com/user-attachments/assets/3189b5d0-7267-4ccc-bdf4-318b3dbbcd40" />
 
-I hold a **B.Sc. in Telecommunications and Informatics Engineering** and am currently pursuing an **M.Sc. in Information Security** at the **University of Porto (FCUP)**.
+I hold a **B.Sc. in Telecommunications and Informatics Engineering** and am currently pursuing an **M.Sc. in Information Security** at the **University of Porto (FCUP)** and CTF Player for xSTF.
 
 * 🎓 **M.Sc. in Information Security Student**
 * 📜 **HTB Certified Junior Cybersecurity Associate (CJCA)**
